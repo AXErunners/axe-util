@@ -1,8 +1,8 @@
 # axe-util
 
 [![npm version](https://img.shields.io/npm/v/axe-util.svg)](https://www.npmjs.com/package/@axerunners/axe-util)
-[![Build Status](https://travis-ci.org/axerunners/axe-util.svg?branch=master)](https://travis-ci.org/axerunners/axe-util)
-[![Dependency Status](https://david-dm.org/axerunners/axe-util.svg)](https://david-dm.org/axerunners/axe-util)
+[![Build Status](https://travis-ci.org/AXErunners/axe-util.svg?branch=master)](https://travis-ci.org/AXErunners/axe-util)
+[![Dependency Status](https://david-dm.org/AXErunners/axe-util.svg)](https://david-dm.org/AXErunners/axe-util)
 
 **Utility functions for AXE hashes and targets**
 
