@@ -1,6 +1,6 @@
 {
   "name": "@axerunners/axe-util",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Utility functions for AXE hashes and targets",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "keywords": [
     "axe",
     "axecoin",
-    "webcoin",
     "util",
     "utils",
     "hash",
