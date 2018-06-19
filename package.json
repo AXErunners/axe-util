@@ -1,0 +1,43 @@
+{
+  "name": "@axerunners/axe-util",
+  "version": "2.0.3",
+  "description": "Utility functions for AXE hashes and targets",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && nyc tape test/*.js | faucet && nyc report",
+    "test-browser": "./test/browser.sh"
+  },
+  "keywords": [
+    "axe",
+    "webcoin",
+    "util",
+    "utils",
+    "hash",
+    "hashes",
+    "target",
+    "blockchain",
+    "axerunners"
+  ],
+  "author": "Matt Bell <mappum@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bn.js": "^4.6.4",
+    "buffer-reverse": "^1.0.1"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "nyc": "^6.4.4",
+    "standard": "^7.0.0",
+    "tape": "^4.5.1",
+    "zuul": "^3.10.1",
+    "zuul-ngrok": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axerunners/axe-util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axerunners/axe-util/issues"
+  },
+  "homepage": "https://github.com/axerunners/axe-util#readme"
+}
