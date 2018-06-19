@@ -14,7 +14,7 @@
 
 #### `toHash(hex)`
 
-Takes a hex string that contains a AXE hash as input, and returns a AXE-protocol-friendly little-endian Buffer. Throws an error if the hex string is not of length 64 (representing a 256-bit hash).
+Takes a hex string that contains a AXE hash as input, and returns an AXE-protocol-friendly little-endian Buffer. Throws an error if the hex string is not of length 64 (representing a 256-bit hash).
 
 #### `compressTarget(target)`
 
